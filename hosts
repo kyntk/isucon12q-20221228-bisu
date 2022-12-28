@@ -1,5 +1,7 @@
 127.0.0.1 localhost
 
-192.168.0.11 isuports-1.t.isucon.dev aisu
-192.168.0.12 isuports-2.t.isucon.dev bisu
-192.168.0.13 isuports-3.t.isucon.dev cisu
+192.168.0.11 isuports-1.t.isucon.dev
+192.168.0.12 isuports-2.t.isucon.dev
+192.168.0.13 isuports-3.t.isucon.dev
+192.168.45.35 aisu
+192.168.45.37 cisu
